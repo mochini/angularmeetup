@@ -1,4 +1,0 @@
-angularmeetup
-=============
-
-Angular JS Meetup
